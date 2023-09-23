@@ -1,0 +1,5 @@
+- Make page responsive
+- Dont use server software - offline page
+- Make a stop for text length, so it dont grow to much to the right
+- Make pictures correct size and static to font size
+- Reuse html, and use templets, like this https://www.w3schools.com/w3css/w3css_templates.asp
